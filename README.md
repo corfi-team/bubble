@@ -20,8 +20,8 @@ aplikacji Bubble oraz warunki korzystania z usługi Bubble.
 Regulamin może zostać zmieniony w dowolnej chwili, jednak użytkownik musi
 zostać o tym poinformowany oraz wyrazić ponownie zgodę i zaakceptować go.
 
-2. Użytkownik nie posiada zgody na publikację aplikacji Bubble oraz na udostępnianie
-jej zasobów, chyba że zezwolił na to twórca aplikacji (Titon).
+2. Użytkownik posiada zgody na publikację aplikacji Bubble oraz na udostępnianie
+jej zasobów, chyba że nie zezwolił na to twórca aplikacji (Titon).
 
 3. Użytkownik jest zobowiązany do przestrzegania regulaminu który akceptuje otwierając
 pliki tej aplikacji, a nieznajomość regulaminu nie zwalnia z jego przestrzegania.
